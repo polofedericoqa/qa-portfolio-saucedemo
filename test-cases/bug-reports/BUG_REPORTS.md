@@ -11,6 +11,7 @@ Este documento recopila los informes de defectos (Bug Reports) identificados dur
 
 ---
 
+
 ### BUG-001: El usuario 'locked_out_user' no puede iniciar sesión
 
 * **ID del Bug:** `BUG-001`
